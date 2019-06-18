@@ -6,7 +6,7 @@ import android.app.Dialog;
 import android.content.Context;
 import android.graphics.Color;
 import android.os.Build;
-import android.support.v4.view.ViewCompat;
+import androidx.core.v4.view.ViewCompat;
 import android.view.View;
 import android.view.Window;
 import android.view.WindowInsets;
